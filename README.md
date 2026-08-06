@@ -1,4 +1,4 @@
-# Your startup name here
+# Your startup name here [Link to Website once AWS deliverable is completed](https://yourdomainnamehere.click)
 
 [My Notes](notes.md)
 
@@ -64,7 +64,8 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 - [ ] **Rented EC2 server** - I did not complete this part of the deliverable.
 - [ ] **Leased domain name** - I did not complete this part of the deliverable.
-- [ ] **Server accessible** from my domain: [https://yourdomainnamehere.click](https://yourdomainnamehere.click) - I did not complete this part of the deliverable.
+- [ ] **Server accessible** - I did not complete this part of the deliverable.
+- [ ] **Updated README with my domain** - I did not complete this part of the deliverable.
 
 ## 🚀 HTML deliverable
 
